@@ -1,1 +1,2 @@
-# psi-02-final
+# Zajęcia 2: Kolekcje
+Kod źródłowy - wersja końcowa
